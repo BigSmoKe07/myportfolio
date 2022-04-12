@@ -11,14 +11,24 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'MiniProject Employee Management System',
-        projectDesc: 'A Single C file to mangae the Employee list ',
-        tags: ['React'],
+        projectName: 'Cryptropedia',
+        projectDesc: 'A app to study on CryptroCoins,It has the complete data about the coin and current price of the coin ',
+        tags: ['C'],
         code: 'https://github.com/BigSmoKe07/Employees-Management-System/blob/main/main.c',
         demo: 'https://github.com/BigSmoKe07/Employees-Management-System',
-        image: 'https://lh6.googleusercontent.com/mcx9-kAuFFUkoASRBj3ZTBuOul6CHFMgbF3en-dUgpNiOUKKsd5HF3l0hkhTTyockZr_YEhMM2dpMTQ=w1920-h878'
+        image: 'https://cdn.discordapp.com/attachments/837188552109457418/963348547682570310/unknown.png'
     },
-]
+    {
+    id: 2,
+        projectName: 'MiniProject Employee Management System',
+        projectDesc: 'A Single C file to mangae the Employee list ',
+        tags: ['React','Js','HTML'],
+        code: 'https://github.com/BigSmoKe07/cryptopedia',
+        demo: 'https://bigsmoke07.github.io/cryptopedia/',
+        image: 'https://cdn.discordapp.com/attachments/837188552109457418/963347555197009981/cryptocurrency.png'
+    }, 
+    ]
+
 
 
 // Do not remove any fields.
