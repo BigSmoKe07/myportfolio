@@ -11,17 +11,17 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Cryptropedia',
-        projectDesc: 'A app to study on CryptroCoins,It has the complete data about the coin and current price of the coin ',
+        projectName: 'Employee Management System',
+        projectDesc: 'A Single C file to maange the Employee list  ',
         tags: ['C'],
         code: 'https://github.com/BigSmoKe07/Employees-Management-System/blob/main/main.c',
         demo: 'https://github.com/BigSmoKe07/Employees-Management-System',
-        image: 'https://cdn.discordapp.com/attachments/837188552109457418/963348547682570310/unknown.png'
+        image: 'https://www.pinclipart.com/picdir/big/58-589309_human-resource-management-system-clipart.png'
     },
     {
     id: 2,
-        projectName: 'MiniProject Employee Management System',
-        projectDesc: 'A Single C file to mangae the Employee list ',
+        projectName: 'Cryptropedia ',
+        projectDesc: 'A app to study on CryptroCoins,It has the complete data about the coin and current price of the coin ',
         tags: ['React','Js','HTML'],
         code: 'https://github.com/BigSmoKe07/cryptopedia',
         demo: 'https://bigsmoke07.github.io/cryptopedia/',
