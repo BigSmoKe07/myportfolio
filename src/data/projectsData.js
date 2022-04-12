@@ -12,7 +12,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Employee Management System',
-        projectDesc: 'A Single C file to maange the Employee list  ',
+        projectDesc: 'A Single C file to manage the Employee list  ',
         tags: ['C'],
         code: 'https://github.com/BigSmoKe07/Employees-Management-System/blob/main/main.c',
         demo: 'https://github.com/BigSmoKe07/Employees-Management-System',
@@ -21,7 +21,7 @@ export const projectsData = [
     {
     id: 2,
         projectName: 'Cryptropedia ',
-        projectDesc: 'A app to study on CryptroCoins,It has the complete data about the coin and current price of the coin ',
+        projectDesc: 'A app to study on CryptoCoins,It has the complete data about the coin and current price of the coin ',
         tags: ['React','Js','HTML'],
         code: 'https://github.com/BigSmoKe07/cryptopedia',
         demo: 'https://bigsmoke07.github.io/cryptopedia/',
